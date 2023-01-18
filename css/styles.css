@@ -159,7 +159,7 @@
     /* Feature section */
     /* Img section */
     /* Team Card section */
-.team-list {
+.team-card {
     background: var(--light-bg-cl);
 }
     
@@ -203,72 +203,4 @@
     color: var(--white-txt-cl);
     background-color: var(--pressed-bg-cl);
 }
-    
-.button-filter-all {
-    color: var(--primery-txt-cl);
-    background-color: var(--light-bg-cl);
-
-    height: 48px;
-    width: 69px;
-    left: 0px;
-    top: 0px;
-}
-  
-.button-filter-web {
-    color: var(--primery-txt-cl);
-    background-color: var(--light-bg-cl);
-
-    height: 48px;
-    width: 116px;
-    left: 93px;
-    top: 0px;
-}
-
-.button-filter-app {
-    color: var(--primery-txt-cl);
-    background-color: var(--light-bg-cl);
-
-    height: 48px;
-    width: 78px;
-    left: 93px;
-    top: 0px;
-}
-    
-.button-filter-design {
-    color: var(--primery-txt-cl);
-    background-color: var(--light-bg-cl);
-
-    height: 48px;
-    width: 101px;
-    left: 93px;
-    top: 0px;
-}
-    
-.button-filter-marketing {
-    color: var(--primery-txt-cl);
-    background-color: var(--light-bg-cl);
-
-    height: 48px;
-    width: 126px;
-    left: 93px;
-    top: 0px;
-
-}
-    
-
-      /* Portfolio of works */
-    
-.portfolio-link {
-    color: currentColor;
-}
-    
-.portfolio-link:hover,
-.portfolio-link:focus {
-  color: var(--pressed-bg-cl);
-}
-    
-    
-.portfolio-txt {
-    font-size: 16px;
-    line-height: 1.2;
-}
+ 
