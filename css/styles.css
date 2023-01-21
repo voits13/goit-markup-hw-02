@@ -189,18 +189,22 @@
 }
 
 
-    /* Portfolio */
+        /* Portfolio */
 
     /* Button of filter */
-.button-filter {
+    
+.btn-filter {
     text-align: center;
     border: 1px solid #E7E9FC;
     border-radius: 4px;
+    color: var(--primery-txt-cl);
+    background-color: var(--light-bg-cl);
 }
 
-.btn-filter-color:hover,
-.btn-filter-color:focus {
+.btn-filter:hover,
+.btn-filter:focus {
     color: var(--white-txt-cl);
     background-color: var(--pressed-bg-cl);
+    
 }
  
